@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'RLCategories_Example' do
+  pod 'RLCategories', :path => '../'
+
+  target 'RLCategories_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
