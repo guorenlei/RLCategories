@@ -7,6 +7,7 @@
 //
 
 #import "RLViewController.h"
+#import <NSString+RLExtension.h>
 
 @interface RLViewController ()
 
@@ -17,7 +18,9 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+    
+    [NSString rl_test];
+    
 }
 
 - (void)didReceiveMemoryWarning

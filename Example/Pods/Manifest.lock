@@ -1,0 +1,16 @@
+PODS:
+  - RLCategories (0.1.0)
+
+DEPENDENCIES:
+  - RLCategories (from `../`)
+
+EXTERNAL SOURCES:
+  RLCategories:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RLCategories: a2bf4bbac87524620621710621a714fd57a54604
+
+PODFILE CHECKSUM: 9374f2cd3543902f5ab600ebc3e8af81913aee43
+
+COCOAPODS: 1.10.1
