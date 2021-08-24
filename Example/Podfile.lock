@@ -1,5 +1,5 @@
 PODS:
-  - RLCategories (0.1.0)
+  - RLCategories (0.1.1)
 
 DEPENDENCIES:
   - RLCategories (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  RLCategories: a2bf4bbac87524620621710621a714fd57a54604
+  RLCategories: 31a5a94d56939b54e7a6d09f57300d4200007f82
 
 PODFILE CHECKSUM: 9374f2cd3543902f5ab600ebc3e8af81913aee43
 

@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'RLCategories'
-  s.version          = '0.1.1'
+  s.version          = '0.1.3'
   s.summary          = '一个自己总结的分类'
 
 # This description is used to generate tags and improve search results.
