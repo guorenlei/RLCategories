@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'RLCategories'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = '一个自己总结的分类'
 
 # This description is used to generate tags and improve search results.
@@ -17,9 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-这是一个简短的描述,描述这个工具是用来干什么的
-                       DESC
+  s.description      = "这是一个简短的描述,描述这个工具是用来干什么的"
 
   s.homepage         = 'https://github.com/guorenlei/RLCategories'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
@@ -32,9 +30,9 @@ Pod::Spec.new do |s|
 
   s.source_files = 'RLCategories/Classes/**/*'
   
-  # s.resource_bundles = {
-  #   'RLCategories' => ['RLCategories/Assets/*.png']
-  # }
+   s.resource_bundles = {
+     'RLCategories' => ['RLCategories/Assets/*.png']
+   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'

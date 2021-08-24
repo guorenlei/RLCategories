@@ -11,7 +11,7 @@
 @implementation NSString (RLExtension)
 
 + (void)rl_test {
-    NSLog(@"rl_test.......");
+    NSLog(@"rl_test.......22222222");
 }
 
 @end
